@@ -6,7 +6,7 @@ If you have already purchased H&R Block, you may be wondering what the next step
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://hrblockdesk.vercel.app" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started</a>
+       <a href="https://hrblockdesk.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started</a>
    </div>
 
 Why Proper Setup Matters
