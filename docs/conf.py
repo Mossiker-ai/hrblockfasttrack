@@ -4,7 +4,7 @@ import sys
 sys.path.insert(0, os.path.abspath('.'))
 
 # Project information
-project = 'New Project'
+project = 'HR Block Fast Track'
 author = 'Lightfoot'
 release = '1.0'
 
